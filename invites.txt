@@ -1,9 +1,9 @@
 invite:
 
-Mark
 Lars
 PepsiLaks
 Morten
 Casper
-Greta
+Bent
 Flemming
+Carsten
